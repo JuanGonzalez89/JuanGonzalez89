@@ -1,5 +1,4 @@
-## ¡Hola!👋 Mi nombre es Juan Ignacio
-
+![Black Minimal Motivation Quote LinkedIn Banner (1)](https://github.com/user-attachments/assets/53478755-97e3-4b26-a37d-12af1254922f)
 <p align="center" width="150px">Soy estudiante de la carrera de desarrollo de software en UADE me destaco por mi pensamiento logico y mi capacidad de resolucion ante problematicas. Tengo conocimiento avanzados en idiomas y busco crecer en el campo del desarrollo de software</p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanGonzalez89&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
