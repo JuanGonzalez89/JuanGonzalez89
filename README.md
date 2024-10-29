@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Juan Gonzalez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<img align="right" width=300px alt="Cat-Working" src="https://github.com/user-attachments/assets/ab95e242-9f0b-4bf3-8c8c-6d68dc83012a" />
+<img align="right" width=300px alt="Man-Coding" src="https://github.com/user-attachments/assets/b3f4107e-c3f0-4aa3-a9d4-f71fa0cdb078" />
 
 <img src="https://github.com/user-attachments/assets/16ce27bb-ee4a-4e09-971b-db12e136521f" width="30px">&nbsp;***About me***
 
