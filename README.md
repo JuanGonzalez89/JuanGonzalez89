@@ -1,25 +1,54 @@
-![Black Minimal Motivation Quote LinkedIn Banner (1)](https://github.com/user-attachments/assets/53478755-97e3-4b26-a37d-12af1254922f)
-<p align="center" width="150px">Soy estudiante de la carrera de desarrollo de software en UADE me destaco por mi pensamiento logico y mi capacidad de resolucion ante problematicas. Tengo conocimiento avanzados en idiomas y busco crecer en el campo del desarrollo de software</p>
+<h1 align="center"><b>Hi , I'm Juan Gonzalez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->
+<img align="right" width=300px alt="Unicorn" src="https://tenor.com/es-419/view/cat-work-in-progress-progress-gif-6698056592000242882" />
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanGonzalez89&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=JuanGonzalez89&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=JuanGonzalez89&theme=chartreuse-dark"></p>
+<img src="https://tenor.com/view/helloworld-programming-gif-10988733249605918265" width="30px">&nbsp;***About me***
 
-### ♾️ &nbsp;Lenguajes
+I am a software development student, currently almost half through my degree. I am expanding my knowledge in both front-end and back-end development. I love to learn and build something new, productive, innovative and creative.
+- 🌱 I’m currently learning ...
+  - Phyton
+  - Java
+- 👥 I’m looking forward to collaborate on open source projects.
+- ✔ Ask me about anything, I am happy to help<br>
+- 📫 Reach out to me at: <a href="juanignaciogonzalez.ca@gmail.com">juanignaciogonzalez.ca@gmail.com</a>
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+## My Skills Include
 
-### 🛠 &nbsp;Herramientas 
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+<h4> Languages </h4>
+<span> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  
 
-### :link: &nbsp;Conectá conmigo
-<p align="center">
-<a href="https://linkedin.com/in/juan-ignacio-gonzalez-32b9452a1"><img src="https://img.shields.io/badge/-Juan%20Gonzalez-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:juanignaciogonzalez.ca@gmail.com"><img src="https://img.shields.io/badge/-juanignaciogonzalez.ca@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/_juan.gonzalezz_"><img src="https://img.shields.io/badge/-_juan.gonzalezz_-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-</p>
+
+</span>
+
+
+<h4> Other Tools and Technologies </h4>
+<span>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  
+
+
+
+</span>
+
+## Connect With Me
+
+<a href= "https://www.instagram.com/_juan.gonzalezz_/?hl=es">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
+<a href= "https://www.linkedin.com/in/juan-ignacio-gonzalez">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+
+<h2>Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=JuanGonzalez89&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/JuanGonzalez89)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=JuanGonzalez89&theme=material-palenight)](https://github.com/JuanGonzalez89)
+</div>
