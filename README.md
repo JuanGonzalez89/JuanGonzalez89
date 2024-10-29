@@ -1,6 +1,7 @@
 <h1 align="center"><b>Hi , I'm Juan Gonzalez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<img align="right" width=300px alt="Unicorn" src="https://tenor.com/es-419/view/cat-work-in-progress-progress-gif-6698056592000242882" />
+<img align="right" width=300px alt="Cat-Working" src="https://media1.tenor.com/m/XPRG-4ujVMIAAAAC/cat-work-in-progress.gif" />
+
 
 <img src="https://tenor.com/view/helloworld-programming-gif-10988733249605918265" width="30px">&nbsp;***About me***
 
