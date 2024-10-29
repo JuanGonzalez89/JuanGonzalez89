@@ -2,7 +2,7 @@
 <!--  -->
 <img align="right" width=300px alt="Cat-Working" src="https://github.com/user-attachments/assets/ab95e242-9f0b-4bf3-8c8c-6d68dc83012a" />
 
-<img src="https://tenor.com/view/helloworld-programming-gif-10988733249605918265" width="30px">&nbsp;***About me***
+<img src="https://github.com/user-attachments/assets/16ce27bb-ee4a-4e09-971b-db12e136521f" width="30px">&nbsp;***About me***
 
 I am a software development student, currently almost half through my degree. I am expanding my knowledge in both front-end and back-end development. I love to learn and build something new, productive, innovative and creative.
 - 🌱 I’m currently learning ...
